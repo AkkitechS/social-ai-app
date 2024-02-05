@@ -1,0 +1,38 @@
+.nav-container {
+    display: flex;
+    background-color: #1d2d44;
+    column-gap: 12rem;
+    padding: 1rem 4rem;
+}
+
+.nav-logo-container img {
+    width: 90px;
+    height: 90px;
+}
+
+.nav-search-container div {
+    border: 2px solid #00ffff;
+    border-radius: 5px;
+    margin-top: 2.1rem;
+    padding: 5px;
+    width: 20rem;
+    height: 2rem;
+    display: flex;
+}
+
+.nav-search-container img {
+    width: 22px;
+    height: 22px;
+    padding-right: 6px;
+}
+
+
+.nav-search-container input {
+    height: 1.6rem;
+    width: 14rem;
+    background-color: transparent;
+    border: none;
+    font-size: 1.5rem;
+    color: whitesmoke;
+    outline: none;
+}

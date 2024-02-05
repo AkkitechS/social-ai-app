@@ -1,0 +1,24 @@
+.post-image-container {
+    padding: 0.3rem;
+}
+
+.post-image-single {
+    width: 40rem;
+    height: 20rem;
+}
+
+.post-image-slider {
+    width: 40rem;
+    height: 13rem;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-color: #1d2d44 #131b23;
+    white-space: nowrap;
+}
+
+.post-image {
+    width: 12rem;
+    height: 12rem;
+    margin: 0 0.2rem;
+    border-radius: 0.2rem;
+}

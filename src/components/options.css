@@ -1,0 +1,25 @@
+.options-inner-container {
+    background-color: #1d2d44;
+    width: 9rem;
+    padding: 0.4rem 0.1rem;
+    margin-top: 2.5rem;
+    border-radius: 2rem;
+}
+
+.option {
+    margin: 4rem 0;
+}
+
+.option img {
+    width: 2rem;
+    display: block;
+    margin: 0 auto;
+}
+
+.highlights:hover {
+    background-color: #131b23;
+    padding: 0.5rem 0;
+    border-top-left-radius: 4rem;
+    border-bottom-left-radius: 4rem;
+    transition: 0.1s ease all;
+}
