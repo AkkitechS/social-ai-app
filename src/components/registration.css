@@ -1,0 +1,44 @@
+.register-container {
+    width: 30%;
+    margin: 3rem auto;
+    background-color: #1d2d44;
+    padding: 1rem;   
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px; 
+}
+
+.register-title {
+    text-align: center;
+    color: #00ffff;
+    font-size: 2.7rem;
+    font-family: 'Afacad', sans-serif;
+    margin-bottom: 0.4rem;
+    margin-top: 0.3rem;
+}
+
+.register-input-container {
+    margin: 0.7rem 0;
+}
+
+.register-input-container input {
+    width: 100%;
+    border: 1px solid #00ffff;
+    border-radius: 5px;
+    outline: none;
+    background-color: transparent;
+    height: 2rem;
+    color: whitesmoke;
+}
+
+.register-btn-container {
+    margin-top: 1.5rem;
+}
+
+.register-btn {
+    width: 100%;
+    height: 1.9rem;
+    background-color: #00ffff;
+    border: transparent;
+    border-radius: 5px;
+    font-size: 1.1rem;
+}
